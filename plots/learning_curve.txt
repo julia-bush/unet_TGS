@@ -1,0 +1,125 @@
+Epoch 00001: val_loss improved from inf to 18.03000, saving model to model-tgs.h5
+100/100 [==============================] - 15s 146ms/step - loss: 0.5347 - accuracy: 0.7633 - val_loss: 18.0300 - val_accuracy: 0.3120
+Epoch 2/100
+100/100 [==============================] - ETA: 0s - loss: 0.3488 - accuracy: 0.8746
+Epoch 00002: val_loss improved from 18.03000 to 7.60224, saving model to model-tgs.h5
+100/100 [==============================] - 14s 143ms/step - loss: 0.3488 - accuracy: 0.8746 - val_loss: 7.6022 - val_accuracy: 0.3787
+Epoch 3/100
+100/100 [==============================] - ETA: 0s - loss: 0.3020 - accuracy: 0.8836
+Epoch 00003: val_loss improved from 7.60224 to 2.28918, saving model to model-tgs.h5
+100/100 [==============================] - 14s 143ms/step - loss: 0.3020 - accuracy: 0.8836 - val_loss: 2.2892 - val_accuracy: 0.4524
+Epoch 4/100
+100/100 [==============================] - ETA: 0s - loss: 0.2632 - accuracy: 0.8922
+Epoch 00004: val_loss improved from 2.28918 to 0.66014, saving model to model-tgs.h5
+100/100 [==============================] - 14s 143ms/step - loss: 0.2632 - accuracy: 0.8922 - val_loss: 0.6601 - val_accuracy: 0.7874
+Epoch 5/100
+100/100 [==============================] - ETA: 0s - loss: 0.2542 - accuracy: 0.8933
+Epoch 00005: val_loss improved from 0.66014 to 0.48031, saving model to model-tgs.h5
+100/100 [==============================] - 14s 144ms/step - loss: 0.2542 - accuracy: 0.8933 - val_loss: 0.4803 - val_accuracy: 0.8204
+Epoch 6/100
+100/100 [==============================] - ETA: 0s - loss: 0.2259 - accuracy: 0.9039
+Epoch 00006: val_loss improved from 0.48031 to 0.23222, saving model to model-tgs.h5
+100/100 [==============================] - 14s 144ms/step - loss: 0.2259 - accuracy: 0.9039 - val_loss: 0.2322 - val_accuracy: 0.9049
+Epoch 7/100
+100/100 [==============================] - ETA: 0s - loss: 0.2100 - accuracy: 0.9130
+Epoch 00007: val_loss did not improve from 0.23222
+100/100 [==============================] - 14s 143ms/step - loss: 0.2100 - accuracy: 0.9130 - val_loss: 0.2505 - val_accuracy: 0.9040
+Epoch 8/100
+100/100 [==============================] - ETA: 0s - loss: 0.2005 - accuracy: 0.9132
+Epoch 00008: val_loss did not improve from 0.23222
+100/100 [==============================] - 14s 143ms/step - loss: 0.2005 - accuracy: 0.9132 - val_loss: 0.4628 - val_accuracy: 0.8428
+Epoch 9/100
+100/100 [==============================] - ETA: 0s - loss: 0.1945 - accuracy: 0.9170
+Epoch 00009: val_loss improved from 0.23222 to 0.18918, saving model to model-tgs.h5
+100/100 [==============================] - 15s 146ms/step - loss: 0.1945 - accuracy: 0.9170 - val_loss: 0.1892 - val_accuracy: 0.9216
+Epoch 10/100
+100/100 [==============================] - ETA: 0s - loss: 0.1890 - accuracy: 0.9187
+Epoch 00010: val_loss did not improve from 0.18918
+100/100 [==============================] - 15s 146ms/step - loss: 0.1890 - accuracy: 0.9187 - val_loss: 0.2523 - val_accuracy: 0.9041
+Epoch 11/100
+100/100 [==============================] - ETA: 0s - loss: 0.1832 - accuracy: 0.9204
+Epoch 00011: val_loss did not improve from 0.18918
+100/100 [==============================] - 14s 142ms/step - loss: 0.1832 - accuracy: 0.9204 - val_loss: 0.6920 - val_accuracy: 0.7785
+Epoch 12/100
+100/100 [==============================] - ETA: 0s - loss: 0.1867 - accuracy: 0.9197
+Epoch 00012: ReduceLROnPlateau reducing learning rate to 0.00010000000474974513.
+
+Epoch 00012: val_loss did not improve from 0.18918
+100/100 [==============================] - 14s 143ms/step - loss: 0.1867 - accuracy: 0.9197 - val_loss: 0.2511 - val_accuracy: 0.8867
+Epoch 13/100
+100/100 [==============================] - ETA: 0s - loss: 0.1649 - accuracy: 0.9283
+Epoch 00013: val_loss improved from 0.18918 to 0.15321, saving model to model-tgs.h5
+100/100 [==============================] - 14s 145ms/step - loss: 0.1649 - accuracy: 0.9283 - val_loss: 0.1532 - val_accuracy: 0.9344
+Epoch 14/100
+100/100 [==============================] - ETA: 0s - loss: 0.1520 - accuracy: 0.9329
+Epoch 00014: val_loss improved from 0.15321 to 0.14700, saving model to model-tgs.h5
+100/100 [==============================] - 14s 144ms/step - loss: 0.1520 - accuracy: 0.9329 - val_loss: 0.1470 - val_accuracy: 0.9363
+Epoch 15/100
+100/100 [==============================] - ETA: 0s - loss: 0.1462 - accuracy: 0.9345
+Epoch 00015: val_loss improved from 0.14700 to 0.14517, saving model to model-tgs.h5
+100/100 [==============================] - 15s 145ms/step - loss: 0.1462 - accuracy: 0.9345 - val_loss: 0.1452 - val_accuracy: 0.9365
+Epoch 16/100
+100/100 [==============================] - ETA: 0s - loss: 0.1423 - accuracy: 0.9347
+Epoch 00016: val_loss did not improve from 0.14517
+100/100 [==============================] - 14s 143ms/step - loss: 0.1423 - accuracy: 0.9347 - val_loss: 0.1466 - val_accuracy: 0.9358
+Epoch 17/100
+100/100 [==============================] - ETA: 0s - loss: 0.1380 - accuracy: 0.9366
+Epoch 00017: val_loss did not improve from 0.14517
+100/100 [==============================] - 14s 143ms/step - loss: 0.1380 - accuracy: 0.9366 - val_loss: 0.1453 - val_accuracy: 0.9358
+Epoch 18/100
+100/100 [==============================] - ETA: 0s - loss: 0.1367 - accuracy: 0.9371
+Epoch 00018: val_loss improved from 0.14517 to 0.14410, saving model to model-tgs.h5
+100/100 [==============================] - 14s 145ms/step - loss: 0.1367 - accuracy: 0.9371 - val_loss: 0.1441 - val_accuracy: 0.9362
+Epoch 19/100
+100/100 [==============================] - ETA: 0s - loss: 0.1363 - accuracy: 0.9378
+Epoch 00019: val_loss did not improve from 0.14410
+100/100 [==============================] - 14s 144ms/step - loss: 0.1363 - accuracy: 0.9378 - val_loss: 0.1445 - val_accuracy: 0.9359
+Epoch 20/100
+100/100 [==============================] - ETA: 0s - loss: 0.1335 - accuracy: 0.9381
+Epoch 00020: val_loss improved from 0.14410 to 0.14286, saving model to model-tgs.h5
+100/100 [==============================] - 15s 145ms/step - loss: 0.1335 - accuracy: 0.9381 - val_loss: 0.1429 - val_accuracy: 0.9364
+Epoch 21/100
+100/100 [==============================] - ETA: 0s - loss: 0.1321 - accuracy: 0.9397
+Epoch 00021: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 144ms/step - loss: 0.1321 - accuracy: 0.9397 - val_loss: 0.1470 - val_accuracy: 0.9343
+Epoch 22/100
+100/100 [==============================] - ETA: 0s - loss: 0.1302 - accuracy: 0.9394
+Epoch 00022: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 144ms/step - loss: 0.1302 - accuracy: 0.9394 - val_loss: 0.1459 - val_accuracy: 0.9344
+Epoch 23/100
+100/100 [==============================] - ETA: 0s - loss: 0.1313 - accuracy: 0.9391
+Epoch 00023: ReduceLROnPlateau reducing learning rate to 1.0000000474974514e-05.
+
+Epoch 00023: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 144ms/step - loss: 0.1313 - accuracy: 0.9391 - val_loss: 0.1463 - val_accuracy: 0.9351
+Epoch 24/100
+100/100 [==============================] - ETA: 0s - loss: 0.1272 - accuracy: 0.9403
+Epoch 00024: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 144ms/step - loss: 0.1272 - accuracy: 0.9403 - val_loss: 0.1429 - val_accuracy: 0.9356
+Epoch 25/100
+100/100 [==============================] - ETA: 0s - loss: 0.1275 - accuracy: 0.9398
+Epoch 00025: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 145ms/step - loss: 0.1275 - accuracy: 0.9398 - val_loss: 0.1446 - val_accuracy: 0.9345
+Epoch 26/100
+100/100 [==============================] - ETA: 0s - loss: 0.1233 - accuracy: 0.9429
+Epoch 00026: ReduceLROnPlateau reducing learning rate to 1e-05.
+
+Epoch 00026: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 145ms/step - loss: 0.1233 - accuracy: 0.9429 - val_loss: 0.1439 - val_accuracy: 0.9347
+Epoch 27/100
+100/100 [==============================] - ETA: 0s - loss: 0.1240 - accuracy: 0.9415
+Epoch 00027: val_loss did not improve from 0.14286
+100/100 [==============================] - 15s 147ms/step - loss: 0.1240 - accuracy: 0.9415 - val_loss: 0.1434 - val_accuracy: 0.9350
+Epoch 28/100
+100/100 [==============================] - ETA: 0s - loss: 0.1254 - accuracy: 0.9410
+Epoch 00028: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 145ms/step - loss: 0.1254 - accuracy: 0.9410 - val_loss: 0.1447 - val_accuracy: 0.9343
+Epoch 29/100
+100/100 [==============================] - ETA: 0s - loss: 0.1250 - accuracy: 0.9414
+Epoch 00029: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 144ms/step - loss: 0.1250 - accuracy: 0.9414 - val_loss: 0.1439 - val_accuracy: 0.9344
+Epoch 30/100
+100/100 [==============================] - ETA: 0s - loss: 0.1266 - accuracy: 0.9411
+Epoch 00030: val_loss did not improve from 0.14286
+100/100 [==============================] - 14s 145ms/step - loss: 0.1266 - accuracy: 0.9411 - val_loss: 0.1441 - val_accuracy: 0.9344
+Epoch 00030: early stopping
